@@ -7,7 +7,7 @@
 
 ## Manifesto
 
-I used to paint; I do code; I did the math<small><sup>1</sup></small> and found myself in frontend. <br/>
+I used to [paint](https://www.deviantart.com/kon-pas); I do [code](https://github.com/kon-pas?tab=repositories); I did the math<sup>1</sup> and found myself in frontend. <br/>
 I&apos;m passionate about web development. <br />
 I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism cultist.
 
