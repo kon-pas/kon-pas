@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>
+  Hello &ndash; <br />
+  this is Konrad, <br />
+  frontend developer.
+</h1>
 
-<!--
-**kon-pas/kon-pas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Manifesto
 
-Here are some ideas to get you started:
+I used to paint; I do code; did the math<small><sup>1</sup></small> and found myself in frontend. <br/>
+I&apos;m passionate about web development. <br />
+I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism cultist. <br />
+<small><sup>1</sup> Literally, I&apos;ve graduated in Applied Computer Science, B.Sc.</small>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+## Connect
+
+[Email](mailto:konpas@mail.com) <br />
+[Twitter](https://twitter.com/kon__pas) <br />
+
+<!-- [LinkedIn]() -->
+<!-- [Discord]() -->
+
+### &ndash; See you!
