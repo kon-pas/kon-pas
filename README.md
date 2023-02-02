@@ -31,30 +31,32 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
   <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/Python/black" />
 </picture>
 
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/React/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/React/black">
-  <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/React/black" />
+  <img alt="React" height="32" width="32" src="https://cdn.simpleicons.org/React/black" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/TailwindCSS/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/TailwindCSS/black">
-  <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/TailwindCSS/black" />
+  <img alt="TailwindCSS" height="32" width="32" src="https://cdn.simpleicons.org/TailwindCSS/black" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/styledcomponents/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/styledcomponents/black">
-  <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents/black" />
+  <img alt="styled-components" height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents/black" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Sass/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/Sass/black">
-  <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/Sass/black" />
+  <img alt="Sass" height="32" width="32" src="https://cdn.simpleicons.org/Sass/black" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/p5.js/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/p5.js/black">
-  <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/p5.js/black" />
+  <img alt="p5.js" height="32" width="32" src="https://cdn.simpleicons.org/p5.js/black" />
 </picture>
 
 <picture>
