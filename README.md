@@ -13,27 +13,27 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
 
 <sup>1</sup> Literally &ndash; I&apos;ve graduated in Applied Computer Science, B.Sc.
 
-## Stack
+## Tech Stack
 
-### Scripting
+#### Scripting
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/TypeScript/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/TypeScript/black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript/black" />
+  <img alt="TypeScript" height="32" width="32" src="https://cdn.simpleicons.org/TypeScript/black" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/JavaScript/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/JavaScript/black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/black" />
+  <img alt="JavaScript" height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/black" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Python/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/Python/black">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/Python/black" />
+  <img alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/Python/black" />
 </picture>
 
-### Frontend
+#### Frontend
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/React/white">
@@ -61,7 +61,7 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
   <img height="32" width="32" src="https://cdn.simpleicons.org/p5.js/black" />
 </picture>
 
-### Backend
+#### Backend
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Next.js/white">
@@ -107,7 +107,7 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
   <img height="32" width="32" src="https://cdn.simpleicons.org/Trello/black" />
 </picture>
 
-## Connect
+## Connect with me
 
 Email: konpas@mail.com <br />
 Twitter: [@kon\_\_pas](https://twitter.com/kon__pas) <br />
