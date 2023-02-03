@@ -1,8 +1,7 @@
 <h1>
   🌱 <br />
   Hello &mdash; <br />
-  this is Konrad, <br />
-  frontend developer.
+  this is Konrad.
 </h1>
 
 ## Manifesto
