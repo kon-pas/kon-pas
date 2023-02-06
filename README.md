@@ -1,6 +1,6 @@
 <h1>
   🌱 <br />
-  Hello &mdash; <br />
+  <em> Hello &mdash; </em> <br />
   this is Konrad.
 </h1>
 
@@ -173,7 +173,7 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
   <img alt="Trello" title="Trello" height="32" width="32" src="https://cdn.simpleicons.org/Trello/black" />
 </picture>
 
-<sup>Just to be clear, I have <em>not<em> mastered all that stuff yet.<sup>
+<sup>Just to be clear, I have <em>not</em> mastered all that stuff yet.</sup>
 
 ## Connect with me
 
@@ -183,4 +183,4 @@ Twitter: [@kon\_\_pas](https://twitter.com/kon__pas) <br />
 <!-- [LinkedIn]() -->
 <!-- [Discord]() -->
 
-### &mdash; See you!
+### <em> &mdash; See you! </em>
