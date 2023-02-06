@@ -173,7 +173,7 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
   <img alt="p5.js" title="p5.js" height="32" width="32" src="https://cdn.simpleicons.org/p5.js/black" />
 </picture>
 
-Just to be clear, I have _not_ yet mastered all that stuff.
+<sup>Just to be clear, I have <em>not<em> yet mastered all that stuff.<sup>
 
 ## Connect with me
 
