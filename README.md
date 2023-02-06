@@ -145,6 +145,19 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Axios/white">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/Axios/black">
+  <img alt="Axios" title="Axios" height="32" width="32" src="https://cdn.simpleicons.org/Axios/black" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/p5.js/white">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/p5.js/black">
+  <img alt="p5.js" title="p5.js" height="32" width="32" src="https://cdn.simpleicons.org/p5.js/black" />
+</picture>
+
+<br />
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/AdobeIllustrator/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/AdobeIllustrator/black">
   <img alt="Adobe Illustrator" title="Adobe Illustrator" height="32" width="32" src="https://cdn.simpleicons.org/AdobeIllustrator/black" />
@@ -158,19 +171,6 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Trello/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/Trello/black">
   <img alt="Trello" title="Trello" height="32" width="32" src="https://cdn.simpleicons.org/Trello/black" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Axios/white">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/Axios/black">
-  <img alt="Axios" title="Axios" height="32" width="32" src="https://cdn.simpleicons.org/Axios/black" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/p5.js/white">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/p5.js/black">
-  <img alt="p5.js" title="p5.js" height="32" width="32" src="https://cdn.simpleicons.org/p5.js/black" />
 </picture>
 
 <sup>Just to be clear, I have <em>not<em> mastered all that stuff yet.<sup>
