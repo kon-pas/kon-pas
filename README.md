@@ -50,7 +50,7 @@ I&apos;d call myself a pixel-perfectionist, design hobbyist, impressionism culti
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ReactHookForm/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ReactHookForm/black">
-  <img alt="React Hook Form" title="React Hook Form" height="26" width="26" padding="3" src="https://cdn.simpleicons.org/ReactHookForm/black" />
+  <img alt="React Hook Form" title="React Hook Form" height="32" width="32" src="https://cdn.simpleicons.org/ReactHookForm/black" />
 </picture>
 
 <br />
